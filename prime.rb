@@ -2,3 +2,5 @@
 expect(prime?(1)).to be(false)
 expect(prime?(1)).to be(false)
 expect(prime?(40)).to be(false)
+expect(prime?(1763)).to be(false)
+
